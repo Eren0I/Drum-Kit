@@ -58,7 +58,7 @@ function createSound(key){
     break;
   
     case"e":
-    var kayıt= new Audio('sounds/kayıt.mp3');
+    var kayıt= new Audio('sounds/Kayıt.mp3');
     kayıt.play();
     break;
   
